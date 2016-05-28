@@ -10,7 +10,13 @@ twitter_username: tonyhungle
 github_username:  hungle90
 facebook_username:  IronSummitMedia
 email_username:  lehung229@gmail.com
-
+# GH-pages supported plugins
+gems:
+  - jekyll-feed
+  - jekyll-mentions
+  - jemoji
+  - jekyll-redirect-from
+  - jekyll-sitemap
 # Build settings
 highlighter: pygments
 permalink: pretty
