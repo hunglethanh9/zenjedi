@@ -1,0 +1,19 @@
+# Site settings
+title: ZenJedi
+header-img: img/home-bg.jpg
+email: lehung229@gmail.com
+copyright_name: ZenJedi
+description: "Write your site description here. It will be used as your sites meta description as well!"
+baseurl: ""
+url: "http://yourdomain.com"
+twitter_username: tonyhungle
+github_username:  hungle90
+facebook_username:  IronSummitMedia
+email_username:  lehung229@gmail.com
+
+# Build settings
+highlighter: pygments
+permalink: pretty
+paginate: 5
+gems: [jekyll-paginate]
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
