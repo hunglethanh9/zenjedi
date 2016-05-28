@@ -4,7 +4,7 @@ header-img: img/home-bg.jpg
 email: lehung229@gmail.com
 copyright_name: ZenJedi
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: ""
+baseurl: "/zenjedi"
 url: "https://zenjedi.github.io"
 twitter_username: tonyhungle
 github_username:  hungle90
